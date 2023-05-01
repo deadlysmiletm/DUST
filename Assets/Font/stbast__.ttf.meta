@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 61acef5762c239c49a3f9b041f346e0a
+timeCreated: 1512086343
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stealthy Bastards
+  fontNames:
+  - Stealthy Bastards
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
